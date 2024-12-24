@@ -8,9 +8,9 @@
 </div>
 
 ## Live Demo
-You can find a live demo here: [https://solidjs-dictionary.webcodelab.de/](https://solidjs-dictionary.webcodelab.de/). If that link doesnt work you can alternatively try it here: [https://solidjs-dictionary.vercel.app/](https://solidjs-dictionary.vercel.app/).
+You can find a live demo here: [https://dictionary.webry.com/](https://dictionary.webry.com/).
 
-<img src="https://bitbucket.org/samuel-braun/solidjs-dictionary/raw/bd1b20793ea0b9861e5b13bc10167a7d9c131f5f/src/assets/demo.jpg" width="340">
+<img src="https://github.com/web-dev-sam/solid-dictionary/blob/main/src/assets/demo.jpg?raw=true" width="340">
 
 
 ## Getting Started
