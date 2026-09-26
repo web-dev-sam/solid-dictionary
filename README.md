@@ -10,7 +10,7 @@ _A dictionary web app built with SolidJS. 📖_
 &nbsp;
 
 ## Why does this exist?
-1. A Premium Frontend Mentor challenge.
+Built for a Premium Frontend Mentor challenge.
 
 ## How it looks
 

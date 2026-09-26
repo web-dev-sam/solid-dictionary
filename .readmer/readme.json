@@ -1,13 +1,16 @@
 {
   "title": "Solid Dictionary",
   "tagline": "A dictionary web app built with SolidJS. 📖",
-  "why": [
-    "A Premium Frontend Mentor challenge."
-  ],
+  "why": "Built for a Premium Frontend Mentor challenge.",
   "sections": [
     {
       "title": "How it looks",
-      "images": [{ "src": "https://github.com/MindLaborDev/solidjs-dictionary-web-app/blob/master/src/assets/demo.jpg?raw=true", "width": 600 }]
+      "images": [
+        {
+          "src": "https://github.com/MindLaborDev/solidjs-dictionary-web-app/blob/master/src/assets/demo.jpg?raw=true",
+          "width": 600
+        }
+      ]
     },
     {
       "title": "How to run it",
