@@ -1,0 +1,40 @@
+{
+  "title": "Solid Dictionary",
+  "tagline": "A dictionary web app built with SolidJS. 📖",
+  "why": [
+    "A Premium Frontend Mentor challenge."
+  ],
+  "sections": [
+    {
+      "title": "How it looks",
+      "images": [{ "src": "https://github.com/MindLaborDev/solidjs-dictionary-web-app/blob/master/src/assets/demo.jpg?raw=true", "width": 600 }]
+    },
+    {
+      "title": "How to run it",
+      "body": [
+        "```bash",
+        "$ npm install",
+        "$ npm run dev",
+        "```"
+      ]
+    },
+    {
+      "title": "Deployment",
+      "body": [
+        "You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)"
+      ]
+    },
+    {
+      "title": "About SolidJS",
+      "body": [
+        "Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)."
+      ]
+    },
+    {
+      "title": "About Frontend Mentor",
+      "body": [
+        "You can access the challenge [here](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL)"
+      ]
+    }
+  ]
+}
